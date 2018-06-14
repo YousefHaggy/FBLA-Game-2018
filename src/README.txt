@@ -4,5 +4,5 @@ Wondering what seperates these two folders?
  art resources. That folder can be ran from the Unity development platform if you'd like
 
 "Main Code Files" Contains a more manegable selection of code for viewing. If you just
-want to look at some of the main programming behind the game, than this is the folder 
+want to look at some of the main programming behind the game, then this is the folder 
 for you. 
